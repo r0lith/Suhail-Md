@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Suhail",
-    "theme": "Suhail-Md",
+    "AUTHOR": "Riruru",
+    "theme": "Riruru-Md",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -11,9 +11,9 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },  
         "global": {      
-            "botName": "Suhail-Md",
+            "botName": "Riruru-Md",
             "body": "whatsapp User Bot", 
-            "greet2" : "Thanks To Suhail Ser",
+            "greet2" : "Thanks To Rolith",
             "pic1": "https://telegra.ph/file/ec9bc5038601821f2eb84.jpg", 
             "pic2": "https://telegra.ph/file/bc21f6f60bd1e3805f2a3.jpg", 
             "pic3": "https://telegra.ph/file/3d64d515e218df059601c.jpg", 
@@ -24,8 +24,8 @@
             "greet" : "Believe it",
             "dotbody" : "I decided being Pirate King.",
             "emojii" : "🍑", 
-            "promote": "Admin Role Given to Suhail",
-            "pmallow": "*Hii,This is Suhail Tech Info\n You have been blocked for spamming.\n\n _Powered by Suhail Tech Info_",
+            "promote": "Admin Role Given to Rolith",
+            "pmallow": "*Hii,This is Riruru\n You have been blocked for spamming.\n\n _Powered by Suhail Tech Info_",
             "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n Join Public Support Group : \nhttps://chat.whatsapp.com/F0HqDfJTvz66zzApYHrHHo\n\n*Powered by Suhail_Md*",
             "permited": "Hii Sir*\n\nNow You are permitted by my owner to pm now.\n\n _Powered by Suhail Tech_", 
             "revoked" : "*Hii Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Suhail Tech_",
